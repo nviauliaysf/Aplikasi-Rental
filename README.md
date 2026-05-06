@@ -1,7 +1,7 @@
 
 # 🚗 Aplikasi Manajemen Rental Kendaraan Berbasis Desktop
 
-## 👥 Kelompok
+## 👥 Kelompok 8
 
 1. Ahmad Raid Iftinan (01)
 2. Muhamad Faisal Akbar (20)
